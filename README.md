@@ -1,6 +1,6 @@
 # Asia-Pacific Information/Cyber Security Meetups
 A community contributed consolidated list of InfoSec meetups in the Asia Pacific region.
-Pull requests welcomed.
+Pull requests encouraged.
 
 Meetups by Region
 -----------------
@@ -18,6 +18,7 @@ Meetups by Region
 |[CryptoAUSTRALIA Digital Self-Defence and Privacy](https://www.meetup.com/en-AU/CryptoAUSTRALIA-Digital-Self-Defence-Privacy-Melbourne/)|Monthly|CryptoAUSTRALIA Digital Self-Defence & Privacy empowers citizens to embrace technology to help preserve their right to privacy. Our group achieves this by providing practical information on tools, processes and policy (need to think about appropriate terms) allowing citizens that are new to privacy concepts to quickly adopt and adapt to a privacy environment.|CBD, Melbourne|
 |[Cyber Riskers Meetup](https://www.cyberriskmeetup.com/melbourne)|various, Monthly| Passionate about these two words: Cyber & Risk? Thinking about how you are going to keep up with cyber trends and latest talk of the town? Yes, that's us Cyber Riskers! We love our get-togethers and meetups with like-minded people. We meet once every quarter; we enjoy good food & drinks, sharing ideas, experiences, contacts, anything cyber risk. Don't underestimate the power of networking|CBD/Southbank, Melbourne|
 | [Last Tuesday of the Month Club (LTOTM)](https://www.linkedin.com/groups/4963271/profile)	| Last Tuesday, Monthly	| LTOTM is a mix of professionals from: Information Security, Technical, IT Risk, IT Audit, Business Continuity/Disaster Recovery, Lawyers & Law Enforcement. The club provides an opportunity to network and have a few hours out to relax and socialise with peers. LTOTM maintains a strong no sales stance, there will be no death by PowerPoint, we may have a brief (<10 min) informal discussion on a topic of interest, not a sales pitch.	| CBD, Melbourne	|
+| [CyRise Sessions](https://www.meetup.com/en-AU/CyRise-Sessions/) | Unknwon | Do you have a cyber security startup? Or an idea for a cyber security solution? CyRise Sessions is for current and potential cyber security founders, and key players in the cyber startup sector. We care about nurturing and expanding the ecosystem through building great relationships and sharing helpful content. CyRise, Australia's only cyber security accelerator program, is a partnership between Deakin University and Dimension Data. | CBD, Melbourne
 
 
 
@@ -34,24 +35,23 @@ Meetups by Region
 | [Sydney Cyber Security for Control Systems](https://www.meetup.com/Sydney-Cyber-Security-for-Control-Systems/) | Random | This meetup dedicated to all professionals involved in Cyber Security for Automated Processes and Control Systems including security for Operating Technology (OT), Industrial Control Systems (ICS), SCADA Systems, Transportation Systems, Building Control Systems (BCS), and even emerging Industrial Internet of Things (IIoT) systems. Our purpose is to connect the professionals in the Greater Sydney area with real interest in or responsibility for the cyber security of these systems. | Sydney
 | [Sydney Cybersecurity Meetup](https://www.meetup.com/Sydney-Cybersecurity-Meetup/) | Random | A group for those interested in networking opportunities, informative discussions and educational sessions on all things cyber. Our Meetup is designed to fit all experience and skill levels from novice to Cyber Warrior. So whether you’re in business, academia, or government, we're looking forward to meeting you at our next event! | Sydney
 | [FWOTM](https://www.meetup.com/en-AU/Cyber-Risk-in-Sydney/events/241194692/) | First Wednesday of the Month |  Social drinks and get-to-know the other professionals in your industry. | Sydney region (location visible to members) |
+| [SECedu](https://sec.edu.au/) | Random |  SECedu is a learning and teaching community of security engineering tertiary students, academics and professionals. Events are hosted sporadically for all experience levels. For students, join the [SECedu slack](https://seceduau.slack.com/signup) and [subscribe](https://sec.edu.au/subscribe/) to the event mailing list to get involved in the community. For professionals, if you would like to run a workshop or get involved with teaching security at UNSW, send your interest to secedu@unsw.edu.au | Sydney, often at UNSW |
 
 
 #### Queensland
 
 | Meetup Name 	| Typically on 	| Frequency 	| About this Meetup 	|
 |-------------	|--------------	|-----------	|-------------------	|
-| [SecTalks Brisbane](https://www.sectalks.org/brisbane/) | Thursday | Monthly | SecTalks Brisbane is a non-profit session for technical security talks, and hands-on challenges. A forum to discuss technical (in)security stuff and share our thoughts. On the 4th Thursday of each month at 6pm. |
-| [SecTalks Toowoomba](https://twitter.com/sectalks_twb)	| New - in planning stages	|||
+| [SecTalks Brisbane](https://www.sectalks.org/brisbane/) | Fourth Thursday | Monthly | SecTalks Brisbane is a non-profit session for technical security talks, and hands-on challenges. A forum to discuss technical (in)security stuff and share our thoughts. On the 4th Thursday of each month at 6pm. |
+| [SecTalks Toowoomba](https://sectalks.org/toowoomba)	| First meetup is Nov 8th	| TBD | SecTalks is a non-profit session for technical security talks, and hands-on security challenges! A forum to learn & discuss technical (in)security stuff. |
 | [OWASP Brisbane](https://www.owasp.org/index.php/Brisbane) |              	| Best effort | OWASP Foundation (Overview Slides) is a professional association of global members and is open to anyone interested in learning more about software security. |
-|             	|              	|           	|                   	|
+| [Brisbane Cyber Security Meetup](https://www.meetup.com/meetup-group-aGFkzPMT/)| Last Tuesday| Monthly | This is a group for anyone interested in cyber security, security needs of major corporations, and those developing disruptive technologies for this sector. |
 
 #### South Australia
 
 | Meetup Name 	| Typically on 	| Frequency 	| About this Meetup 	|
 |-------------	|--------------	|-----------	|-------------------	|
-|             	|              	|           	|                   	|
-|             	|              	|           	|                   	|
-|             	|              	|           	|                   	|
+| [SecTalks Adelaide](https://www.sectalks.org/adelaide/) | First Tuesday, Monthly | SecTalks Adelaide is a non-profit session for technical security talks, and hands-on challenges. A forum to discuss technical (in)security stuff and share our thoughts. SecTalks Adelaide is held every month. Visit the [Meetup group](https://www.meetup.com/SecTalks-Adelaide/) for more details.  | Inner West, Adelaide |
 
 #### Tasmania
 
@@ -80,4 +80,21 @@ Meetups by Region
 |-------------	|--------------	|-----------	|-------------------	|
 | [SecTalks Perth](https://www.sectalks.org/perth/) | Thursday | Monthly | SecTalks Perth is a non-profit session for technical security talks, and hands-on challenges. A forum to discuss technical (in)security stuff and share our thoughts. On the 3rd Thursday of each month at 5:30pm. |
 | [OWASP Perth](https://www.meetup.com/OWASP-Perth/) | | Best Effort | The Open Web Application Security Project (OWASP) is a worldwide not-for-profit organisation focused on improving software security. OWASP Perth is a local Chapter run by volunteers. Our primary focus is advancing software security through bolstering awareness and sharing of practical knowledge and advice. |
-|             	|              	|           	|                   	|
+| STOTM             	| 2nd Thursday of the Month	| Monthly	| Drinks and networking with security professionals. STOTM maintains a strong no sales stance, there will be no death by PowerPoint, we do have a brief and informal discussion on a topic of interest, not a sales pitch.	|
+| [AISA Perth](https://www.aisa.org.au/Public/Public/Branches/Perth/Perth_Branch.aspx) | 2nd Tuesday, 17:15 hrs | Monthly | AISA's Perth branch has over 350 members and regularly has 50 - 75 members in attendance at its monthly branch meetings. Perth branch meetings provide members with a wide variety of speakers and meeting formats including presentations and panel sessions.  |
+| AWSN Perth | - | Mostly monthly | We are an open network of people of different backgrounds, experience, qualifications, age and gender. Our common interest is security. |
+
+
+### India
+#### Ahmedabad
+
+| Meetup Name 	| Typically on  	| About this Meetup 	| Locale |
+|-------------	| --------------	|-------------------	|--------|
+| [Null Chapter Ahmedabad](https://null.co.in/chapters/17-ahmedabad)  |  Last Sunday, Monthly	| Null chapters are organised by volunteers, They are part of null monthly meets, under the null open security community. Sessions on various infosec topics are presented here. | Ahmedabad,Gujarat, India |
+
+#### Delhi
+
+| Meetup Name 	| Typically on  	| About this Meetup 	| Locale |
+|-------------	| --------------	|-------------------	|--------|
+| [Null Chapter Delhi + OWASP meet (Combined)](https://null.co.in/chapters/2-delhi)  |  Best Effort | Null chapters are organised by volunteers, They are part of null monthly meets, under the null open security community. Sessions on various infosec topics are presented here. | Delhi,India |
+
